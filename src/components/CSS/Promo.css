@@ -1,0 +1,14 @@
+.table-container{
+    border: 1px solid lightGray;
+    margin-top: 20px;
+    border-radius: 8px;
+}
+.table-header{
+    text-align: center;
+    font-size: 16px;
+    font-weight: 600;
+}
+
+.table-data{
+    text-align: center;
+}
